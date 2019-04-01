@@ -1,0 +1,9 @@
+h1.logo {
+  font-family: 'Special Elite', cursive;
+  text-transform: lowercase;
+  font-size: 3em;
+}
+
+h1.logo span {
+  color: #337ab7 !important;
+}
