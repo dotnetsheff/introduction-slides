@@ -7,3 +7,10 @@ h1.logo {
 h1.logo span {
   color: #337ab7 !important;
 }
+
+#social img{
+  margin: 0;
+  border: none;
+  background: none;
+  width: 42px;
+}
