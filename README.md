@@ -2,8 +2,8 @@
 
 ## Slides
 
-- [2nd April 2019](/2019-04-02/)
-- [7th May 2019](/2019-05-07/)
+- [2nd April 2019](2019-04-02/)
+- [7th May 2019](2019-05-07/)
 
 ## Other Useful Links
 
