@@ -4,6 +4,7 @@
 
 - [2nd April 2019](2019-04-02/)
 - [7th May 2019](2019-05-07/)
+- [4th June 2019](2019-06-04/)
 
 ## Other Useful Links
 
