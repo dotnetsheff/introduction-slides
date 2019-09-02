@@ -7,6 +7,7 @@
 - [4th June 2019](2019-06-04/)
 - [2nd July 2019](2019-07-02/)
 - [6th August 2019](2019-08-06/)
+- [3rd September 2019](2019-09-03/)
 
 ## Other Useful Links
 
