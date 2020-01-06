@@ -26,3 +26,18 @@ h1.logo span {
 #fireworks span {
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
+
+#helpers .container {
+  display: flex;
+  justify-content: space-around;
+}
+
+#helpers img.picture {
+  border-radius: 50%;
+}
+#helper .person {
+  margin: 10px;
+}
+#helpers p {
+  font-size: 0.7em;
+}
