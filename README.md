@@ -10,6 +10,7 @@
 - [3rd September 2019](2019-09-03/)
 - [1st October 2019](2019-10-01/)
 - [5th November 2019](2019-11-05/)
+- [7th January 2019](2020-01-07/)
 
 ## Other Useful Links
 
