@@ -1,0 +1,43 @@
+h1.logo {
+  font-family: 'Special Elite', cursive;
+  text-transform: lowercase;
+  font-size: 3em;
+}
+
+h1.logo span {
+  color: #337ab7 !important;
+}
+
+#social img.icon {
+  margin: 0;
+  border: none;
+  background: none;
+  width: 42px;
+}
+
+#fireworks h1 {
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+#fireworks h3 {
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+#fireworks span {
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+#helpers .container {
+  display: flex;
+  justify-content: space-around;
+}
+
+#helpers img.picture {
+  border-radius: 50%;
+}
+#helper .person {
+  margin: 10px;
+}
+#helpers p {
+  font-size: 0.7em;
+}
