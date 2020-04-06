@@ -1,5 +1,10 @@
+@font-face {
+  font-family: "DOTFONT-";
+  src: url("DOTFONT-.TTF");
+}
+
 h1.logo {
-  font-family: 'Special Elite', cursive;
+  font-family: "Special Elite", cursive;
   text-transform: lowercase;
   font-size: 3em;
 }
@@ -40,4 +45,80 @@ h1.logo span {
 }
 #helpers p {
   font-size: 0.7em;
+}
+
+h2.dotnetyorklogo {
+  font-size: 64px;
+  margin-bottom: 20px;
+  padding: 0;
+  line-height: 1.2;
+  text-transform: none;
+}
+
+h2.dotnetyorklogo {
+  color: #0c2e8a;
+  line-height: 1;
+  display: inline-block;
+}
+
+h2.dotnetyorklogo .dotnet {
+  letter-spacing: -7px;
+  font-family: "DOTFONT-";
+}
+
+h2.dotnetyorklogo .d {
+  color: #f67027;
+}
+
+h2.dotnetyorklogo .o {
+  color: #99c900;
+}
+
+h2.dotnetyorklogo .t {
+  color: rgb(92, 92, 92);
+}
+
+h2.dotnetyorklogo .n {
+  color: #00a6f7;
+}
+
+h2.dotnetyorklogo .e {
+  color: #fdc614;
+}
+
+h2.dotnetyorklogo .t {
+  color: rgb(92, 92, 92);
+}
+
+h2.dotnetyorklogo .york {
+  color: rgb(153, 153, 153);
+  font-size: 0.5em;
+  font-family: "Montserrat", sans-serif;
+}
+
+#online h1 {
+  text-shadow: 2px 2px 12px #161817;
+}
+
+#bar h1 {
+  text-shadow: 2px 2px 8px #99c900;
+  color: #7296fa;
+}
+
+#bar a {
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9);
+  color: #00ff4e;
+  font-weight: bolder;
+}
+#bar p {
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9);
+  color: #fdc614;
+  font-weight: bolder;
+}
+
+#tonight img {
+  height: 200px;
+  background: transparent;
+  border: none;
+  box-shadow: none;
 }
