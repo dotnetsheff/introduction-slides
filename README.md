@@ -16,6 +16,7 @@
 - [17th June 2020](2020-06-17/)
 - [24th June 2020](2020-06-24/)
 - [7th July 2020](2020-07-07/)
+- [1st September 2020](2020-09-01/)
 
 ## Other Useful Links
 
