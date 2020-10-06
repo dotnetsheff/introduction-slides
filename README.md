@@ -17,6 +17,7 @@
 - [24th June 2020](2020-06-24/)
 - [7th July 2020](2020-07-07/)
 - [1st September 2020](2020-09-01/)
+- [6th October 2020](2020-10-06/)
 
 ## Other Useful Links
 
@@ -24,4 +25,4 @@
 - [Videos](https://dotnetsheff.co.uk/pages/videos)
 - [Twitter](https://twitter.com/@dotnetsheff)
 - [Facebook](https://facebook.com/dotnetsheff)
-- [YouTube](https://www.youtube.com/channel/UCCUdb9Kq96IUUGaS6WNUAeg)
+- [YouTube Channel](https://www.youtube.com/c/dotnetsheff)
