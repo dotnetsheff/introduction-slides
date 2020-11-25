@@ -19,6 +19,7 @@
 - [1st September 2020](2020-09-01/)
 - [6th October 2020](2020-10-06/)
 - [3rd November 2020](2020-11-03/)
+- [25th November 2020](2020-11-25/)
 
 ## Other Useful Links
 
