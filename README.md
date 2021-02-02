@@ -8,6 +8,7 @@
 
 ### 2021
 - [20th January 2021](2021-01-20/)
+- [2nd February 2021](2021-02-02/)
 
 ## Other Useful Links
 
