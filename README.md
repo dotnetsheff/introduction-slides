@@ -11,6 +11,10 @@
 - [2nd February 2021](2021-02-02/)
 - [17th February 2021](2021-02-17/)
 - [21st July 2021](2021-07-21/)
+
+### 2022
+- [7th June 2022](2022-06-07/)
+
 ## Other Useful Links
 
 - [Website](https://dotnetsheff.co.uk)
