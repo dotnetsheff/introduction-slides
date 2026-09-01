@@ -15,6 +15,9 @@
 ### 2022
 - [7th June 2022](2022-06-07/)
 
+### 2026
+- [1st September 2026](2026-09-01/)
+
 ## Other Useful Links
 
 - [Website](https://dotnetsheff.co.uk)

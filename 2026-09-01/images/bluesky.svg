@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	 viewBox="0 0 400 400" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1185FE;}
+	.st1{fill:#FFFFFF;}
+</style>
+<rect class="st0" width="400" height="400"/>
+<path class="st1" d="M200,175 C185,130 140,95 105,95 C90,95 85,105 85,120 C85,150 105,205 145,225 C110,220 85,240 85,265 C85,285 105,300 130,300 C165,300 190,275 200,240 C210,275 235,300 270,300 C295,300 315,285 315,265 C315,240 290,220 255,225 C295,205 315,150 315,120 C315,105 310,95 295,95 C260,95 215,130 200,175 Z"/>
+</svg>
