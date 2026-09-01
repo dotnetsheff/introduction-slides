@@ -3,10 +3,6 @@
   src: url("DOTFONT-.TTF");
 }
 
-body {
-  font-family: "Poppins", sans-serif;
-}
-
 .reveal {
   background: radial-gradient(circle at top left, #1b1035 0%, #05010f 65%);
 }
@@ -17,19 +13,12 @@ body {
 
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5 {
   text-transform: none;
-  font-family: "Poppins", sans-serif;
-  font-weight: 700;
-}
-
-.reveal p, .reveal li {
-  font-family: "Poppins", sans-serif;
 }
 
 h2.logo {
-  font-family: "Space Mono", monospace;
+  font-family: "Special Elite", cursive;
   text-transform: lowercase;
-  font-size: 3em;
-  letter-spacing: -2px;
+  font-size: 2em;
   color: #ffffff;
 }
 
