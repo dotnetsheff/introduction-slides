@@ -1,0 +1,100 @@
+@font-face {
+  font-family: "DOTFONT-";
+  src: url("DOTFONT-.TTF");
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.reveal {
+  background: radial-gradient(circle at top left, #1b1035 0%, #05010f 65%);
+}
+
+.reveal .slides {
+  text-align: center;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5 {
+  text-transform: none;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+
+.reveal p, .reveal li {
+  font-family: "Poppins", sans-serif;
+}
+
+h2.logo {
+  font-family: "Space Mono", monospace;
+  text-transform: lowercase;
+  font-size: 3em;
+  letter-spacing: -2px;
+  color: #ffffff;
+}
+
+h2.logo span {
+  color: #7f5af0 !important;
+  text-shadow: 0 0 18px rgba(127, 90, 240, 0.9);
+}
+
+#main hr {
+  border: none;
+  border-top: 2px solid #7f5af0;
+  width: 60%;
+  margin: 20px auto;
+  opacity: 0.6;
+}
+
+#social img.icon,
+h2 img.icon {
+  margin: 0 8px -6px 0;
+  border: none;
+  background: none;
+  box-shadow: none;
+  width: 40px;
+  vertical-align: middle;
+}
+
+#social img.qr,
+#tonight img,
+img.qr {
+  height: 260px;
+  width: 260px;
+  background: #ffffff;
+  padding: 12px;
+  border-radius: 16px;
+  border: none;
+  box-shadow: 0 0 30px rgba(127, 90, 240, 0.6);
+}
+
+#community span {
+  color: #2cb67d;
+  font-weight: 600;
+}
+
+#upcoming h2 {
+  color: #7f5af0;
+  text-shadow: 0 0 12px rgba(127, 90, 240, 0.6);
+}
+
+#upcoming h3 {
+  color: #ffffff;
+}
+
+#tonight h2 {
+  color: #2cb67d;
+}
+
+#speaking li {
+  list-style: none;
+  display: inline-block;
+  margin: 6px 12px;
+  padding: 6px 18px;
+  border: 2px solid #7f5af0;
+  border-radius: 999px;
+}
+
+section#tonight p {
+  font-size: 0.85em;
+}
